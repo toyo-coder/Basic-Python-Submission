@@ -4,4 +4,4 @@ while True:
     case_number += 1
     if x == 0:
         break
-    print("Case {}: {}".format(case_number,x))
+    print(f"Csse {case_number}: {x}")
